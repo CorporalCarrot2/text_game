@@ -1,7 +1,5 @@
 ﻿  Game.cpp
   main.cpp
 C:\Users\VJFANELLI\source\repos\Text_Game\main.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\VJFANELLI\source\repos\Text_Game\main.cpp(14,28): error C2248: 'Game::getPlaying': cannot access private member declared in class 'Game'
-C:\Users\VJFANELLI\source\repos\Text_Game\Game.h(33): message : see declaration of 'Game::getPlaying'
-C:\Users\VJFANELLI\source\repos\Text_Game\Game.h(12): message : see declaration of 'Game'
   Generating Code...
+  Text_Game.vcxproj -> C:\Users\VJFANELLI\source\repos\Text_Game\Debug\Text_Game.exe
